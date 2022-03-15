@@ -1,6 +1,6 @@
-import Nav from "./Nav";
-import Banner from "./Banner";
-import Row from "./Row";
+import Nav from "../components/Nav";
+import Banner from "../components/Banner";
+import Row from "../components/Row";
 
 import "./HomeScreen.css";
 import requests from "../Requests";
